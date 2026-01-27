@@ -20,8 +20,12 @@ It provides structured data analysis, visualizations, and summaries to help stak
 - Revenue fluctuations and peak periods
 - Customer retention and churn analysis
 - Operational metrics (cancellations, delays, etc.)
+
+- 
 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with improvements.
+
+
 📜 License
 This project is licensed under the MIT License.
 
