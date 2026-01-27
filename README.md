@@ -14,13 +14,7 @@ It provides structured data analysis, visualizations, and summaries to help stak
 - **Jupyter Notebook** for interactive analysis
 - **GitHub** for version control and collaboration
 
-## 📂 Project Structure
 
-
-├── data/                # Raw and processed Ola monthly reports ├── notebooks/           # Jupyter notebooks for analysis ├── scripts/             # Python scripts for automation ├── results/             # Visualizations and summary reports └── README.md            # Project documentation
-
-
-- Open the notebooks in the notebooks/ folder to explore the analysis.
 📈 Example Insights
 - Monthly ride growth trends
 - Revenue fluctuations and peak periods
